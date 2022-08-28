@@ -1,0 +1,302 @@
+,Car Name,Year,Kms Driven,Fuel Type,Seller Type,Transmission,Selling Price,Predicted Selling Price,Present Price,Owner
+0,ritz,2014,27000,Petrol,Dealer,Manual,3.35,3.8985092252382856,5.59,0
+1,sx4,2013,43000,Diesel,Dealer,Manual,4.75,7.015798664788008,9.54,0
+2,ciaz,2017,6900,Petrol,Dealer,Manual,7.25,8.10599816140666,9.85,0
+3,wagon r,2011,5200,Petrol,Dealer,Manual,2.85,2.8015313590892674,4.15,0
+4,swift,2014,42450,Diesel,Dealer,Manual,4.6,5.38663551885179,6.87,0
+5,vitara brezza,2018,2071,Diesel,Dealer,Manual,9.25,9.837581512419092,9.83,0
+6,ciaz,2015,18796,Petrol,Dealer,Manual,6.75,5.81852827069747,8.12,0
+7,s cross,2015,33429,Diesel,Dealer,Manual,6.5,7.151005808846094,8.61,0
+8,ciaz,2016,20273,Diesel,Dealer,Manual,8.75,7.383842020371958,8.89,0
+9,ciaz,2015,42367,Diesel,Dealer,Manual,7.45,6.691469020074237,8.92,0
+10,alto 800,2017,2135,Petrol,Dealer,Manual,2.85,2.850000000067439,3.6,0
+11,ciaz,2015,51000,Diesel,Dealer,Manual,6.85,7.508048580984905,10.38,0
+12,ciaz,2015,15000,Petrol,Dealer,Automatic,7.5,7.101865782997265,9.94,0
+13,ertiga,2015,26000,Petrol,Dealer,Manual,6.1,5.33552276914952,7.71,0
+14,dzire,2009,77427,Petrol,Dealer,Manual,2.25,1.471908379734714,7.21,0
+15,ertiga,2016,43000,Diesel,Dealer,Manual,7.75,8.184370695606958,10.79,0
+16,ertiga,2015,41678,Diesel,Dealer,Manual,7.25,7.580584967358163,10.79,0
+17,ertiga,2016,43000,Diesel,Dealer,Manual,7.75,8.184370695606958,10.79,0
+18,wagon r,2015,35500,CNG,Dealer,Manual,3.25,3.827813962873961,5.09,0
+19,sx4,2010,41442,Petrol,Dealer,Manual,2.65,3.768264622617153,7.98,0
+20,alto k10,2016,25000,Petrol,Dealer,Manual,2.85,3.908018309185991,3.95,0
+21,ignis,2017,2400,Petrol,Dealer,Manual,4.9,4.900000000028058,5.71,0
+22,sx4,2011,50000,Petrol,Dealer,Automatic,4.4,4.556228392759749,8.01,0
+23,alto k10,2014,45280,Petrol,Dealer,Manual,2.5,2.3093124864610672,3.46,0
+24,wagon r,2013,56879,Petrol,Dealer,Manual,2.9,3.939161896632868,4.41,0
+25,swift,2011,20000,Petrol,Dealer,Manual,3.0,2.0462723909290617,4.99,0
+26,swift,2013,55138,Petrol,Dealer,Manual,4.15,3.622290568738208,5.87,0
+27,swift,2017,16200,Petrol,Individual,Manual,6.0,5.351424904374653,6.49,0
+28,alto k10,2010,44542,Petrol,Dealer,Manual,1.95,0.16073392923885876,3.95,0
+29,ciaz,2015,45000,Diesel,Dealer,Manual,7.45,7.535253213100077,10.38,0
+30,ritz,2012,51439,Diesel,Dealer,Manual,3.1,3.307649108687656,5.98,0
+31,ritz,2011,54200,Petrol,Dealer,Manual,2.35,1.5355642057518253,4.89,0
+32,swift,2014,39000,Diesel,Dealer,Manual,4.95,5.765667185947905,7.49,0
+33,ertiga,2014,45000,Diesel,Dealer,Manual,6.0,6.463409365063626,9.95,0
+34,dzire,2014,45000,Diesel,Dealer,Manual,5.5,5.676954603073909,8.06,0
+35,sx4,2011,49998,CNG,Dealer,Manual,2.95,2.3721860371231287,7.74,0
+36,dzire,2015,48767,Petrol,Dealer,Manual,4.65,5.254673619323967,7.2,0
+37,800,2003,127000,Petrol,Individual,Manual,0.35,0.3499999999407919,2.28,0
+38,alto k10,2016,10079,Petrol,Dealer,Manual,3.0,3.864310548877029,3.76,0
+39,sx4,2003,62000,Petrol,Dealer,Manual,2.25,-0.5934062238927709,7.98,0
+40,baleno,2016,24524,Petrol,Dealer,Automatic,5.85,5.849999999954889,7.87,0
+41,alto k10,2014,46706,Petrol,Dealer,Manual,2.55,2.607624726240374,3.98,0
+42,sx4,2008,58000,Petrol,Dealer,Manual,1.95,1.9871568993137316,7.15,0
+43,dzire,2014,45780,Diesel,Dealer,Manual,5.5,5.6734180008988915,8.06,0
+44,omni,2012,50000,Petrol,Dealer,Manual,1.25,1.2499999999681677,2.69,0
+45,ciaz,2014,15000,Petrol,Dealer,Automatic,7.5,7.72291968944478,12.04,0
+46,ritz,2013,64532,Petrol,Dealer,Manual,2.65,2.708277460299314,4.89,0
+47,wagon r,2006,65000,Petrol,Dealer,Manual,1.05,-0.5185072186143316,4.15,0
+48,ertiga,2015,25870,Petrol,Dealer,Manual,5.8,5.33611220284547,7.71,0
+49,ciaz,2017,37000,Petrol,Dealer,Automatic,7.75,7.840702753776441,9.29,0
+50,fortuner,2012,104707,Diesel,Dealer,Automatic,14.9,17.948512332478458,30.61,0
+51,fortuner,2015,40000,Diesel,Dealer,Automatic,23.0,20.071240134097252,30.61,0
+52,innova,2017,15000,Diesel,Dealer,Automatic,18.0,17.448448727816412,19.77,0
+53,fortuner,2013,135000,Diesel,Individual,Automatic,16.0,17.17101757025148,30.61,0
+54,innova,2005,90000,Petrol,Individual,Manual,2.75,2.2275575252810995,10.21,0
+55,corolla altis,2009,70000,Petrol,Dealer,Automatic,3.6,3.869251003045747,15.04,0
+56,etios cross,2015,40534,Petrol,Dealer,Manual,4.5,4.322224085440212,7.27,0
+57,corolla altis,2010,50000,Petrol,Dealer,Manual,4.75,6.42169897290114,18.54,0
+58,etios g,2014,39485,Petrol,Dealer,Manual,4.1,4.100000000005593,6.8,1
+59,fortuner,2014,41000,Diesel,Dealer,Automatic,19.99,22.592621647767828,35.96,0
+60,corolla altis,2013,40001,Petrol,Dealer,Manual,6.95,8.337402729627456,18.61,0
+61,etios cross,2015,40588,Petrol,Dealer,Manual,4.5,4.5740071011070995,7.7,0
+62,fortuner,2014,78000,Diesel,Dealer,Automatic,18.75,22.4248597497251,35.96,0
+63,fortuner,2015,47000,Diesel,Dealer,Automatic,23.5,23.175196831177573,35.96,0
+64,fortuner,2017,6000,Diesel,Dealer,Automatic,33.0,24.73890483164746,36.23,0
+65,etios liva,2014,45000,Diesel,Dealer,Manual,4.75,4.936123885167717,6.95,0
+66,innova,2017,11000,Petrol,Dealer,Automatic,19.75,18.93671622060583,23.15,0
+67,fortuner,2010,59000,Diesel,Dealer,Manual,9.25,10.781898796276437,20.45,0
+68,corolla altis,2011,88000,Petrol,Dealer,Manual,4.35,4.045848563380105,13.74,0
+69,corolla altis,2016,12000,Petrol,Dealer,Manual,14.25,11.641757641384629,20.91,0
+70,etios liva,2014,71000,Diesel,Dealer,Manual,3.95,4.706875999728936,6.76,0
+71,corolla altis,2011,45000,Diesel,Dealer,Manual,4.5,4.013239970053974,12.48,0
+72,corolla altis,2013,56001,Petrol,Dealer,Manual,7.45,8.264857043987377,18.61,0
+73,etios liva,2011,43000,Petrol,Dealer,Manual,2.65,1.878149532339421,5.71,0
+74,etios cross,2014,83000,Diesel,Dealer,Manual,4.9,5.003768813369334,8.93,0
+75,etios g,2015,36000,Petrol,Dealer,Manual,3.95,3.950000000007094,6.8,0
+76,corolla altis,2013,72000,Petrol,Dealer,Manual,5.5,5.888898498476237,14.68,0
+77,corolla,2004,135154,Petrol,Dealer,Automatic,1.5,1.49999999986062,12.35,0
+78,corolla altis,2010,80000,Petrol,Dealer,Automatic,5.25,8.99949676226538,22.83,0
+79,fortuner,2012,89000,Diesel,Dealer,Automatic,14.5,18.01972952525034,30.61,0
+80,corolla altis,2016,23000,Diesel,Dealer,Manual,14.73,8.574417589219593,14.89,0
+81,etios gd,2015,40000,Diesel,Dealer,Manual,4.75,6.675767617492738,7.85,0
+82,innova,2017,15000,Diesel,Dealer,Automatic,23.0,20.7423942123321,25.39,0
+83,innova,2015,38000,Diesel,Dealer,Manual,12.5,12.226838905442037,13.46,0
+84,innova,2005,197176,Diesel,Dealer,Manual,3.49,5.407319996604201,13.46,0
+85,camry,2006,142000,Petrol,Individual,Automatic,2.5,2.4999999998597104,23.73,3
+86,land cruiser,2010,78000,Diesel,Dealer,Manual,35.0,34.9999999999452,92.6,0
+87,corolla altis,2012,56000,Petrol,Dealer,Manual,5.9,4.800719750185408,13.74,0
+88,etios liva,2013,47000,Petrol,Dealer,Manual,3.45,3.278850582679297,6.05,0
+89,etios g,2014,40000,Petrol,Dealer,Manual,4.75,3.2986393112253154,6.76,0
+90,corolla altis,2009,62000,Petrol,Dealer,Manual,3.8,5.798537683878749,18.61,0
+91,innova,2014,58242,Diesel,Dealer,Manual,11.25,13.066752438317963,16.09,0
+92,innova,2005,75000,Petrol,Dealer,Manual,3.51,5.591020453535066,13.7,0
+93,fortuner,2015,40000,Diesel,Dealer,Automatic,23.0,20.071240134097252,30.61,0
+94,corolla altis,2008,89000,Petrol,Dealer,Automatic,4.0,7.709824618234734,22.78,0
+95,corolla altis,2012,72000,Petrol,Dealer,Manual,5.85,7.582536076927909,18.61,0
+96,innova,2016,29000,Diesel,Dealer,Automatic,20.75,20.069136921872314,25.39,0
+97,corolla altis,2017,8700,Petrol,Dealer,Manual,17.0,10.936027362250343,18.64,0
+98,corolla altis,2013,45000,Petrol,Dealer,Manual,7.05,8.314736736970417,18.61,0
+99,fortuner,2010,50024,Diesel,Dealer,Manual,9.65,10.82259692592038,20.45,0
+100,Royal Enfield Thunder 500,2016,3000,Petrol,Individual,Manual,1.75,2.1332920912927875,1.9,0
+101,UM Renegade Mojave,2017,1400,Petrol,Individual,Manual,1.7,2.7752445652001825,1.82,0
+102,KTM RC200,2017,4000,Petrol,Individual,Manual,1.65,1.7344240131499191,1.78,0
+103,Bajaj Dominar 400,2017,1200,Petrol,Individual,Manual,1.45,1.4500000001373792,1.6,0
+104,Royal Enfield Classic 350,2017,4100,Petrol,Individual,Manual,1.35,2.450195299289817,1.47,0
+105,KTM RC390,2015,21700,Petrol,Individual,Manual,1.35,1.3500000000165073,2.37,0
+106,Hyosung GT250R,2014,16500,Petrol,Individual,Manual,1.35,2.608382713092624,3.45,1
+107,Royal Enfield Thunder 350,2013,15000,Petrol,Individual,Manual,1.25,1.7414166888820546,1.5,0
+108,Royal Enfield Thunder 350,2016,18000,Petrol,Individual,Manual,1.2,3.557153819398536,1.5,0
+109,Royal Enfield Classic 350,2017,11000,Petrol,Individual,Manual,1.2,2.4189099723575964,1.47,0
+110,KTM RC200,2016,6000,Petrol,Individual,Manual,1.2,1.1155759869202484,1.78,0
+111,Royal Enfield Thunder 350,2016,8700,Petrol,Individual,Manual,1.15,3.5993209991768254,1.5,0
+112,KTM 390 Duke ,2014,7000,Petrol,Individual,Manual,1.15,1.1500000000517048,2.4,0
+113,Mahindra Mojo XT300,2016,35000,Petrol,Individual,Manual,1.15,1.1499999999994088,1.4,0
+114,Royal Enfield Classic 350,2015,17000,Petrol,Individual,Manual,1.15,1.172145709193046,1.47,0
+115,Royal Enfield Classic 350,2015,17500,Petrol,Individual,Manual,1.11,1.1698786565168575,1.47,0
+116,Royal Enfield Classic 350,2013,33000,Petrol,Individual,Manual,1.1,-0.11995960749641199,1.47,0
+117,Royal Enfield Thunder 500,2015,14000,Petrol,Individual,Manual,1.1,1.4736371168905862,1.9,0
+118,Royal Enfield Classic 350,2015,26000,Petrol,Individual,Manual,1.1,1.1313387610205154,1.47,0
+119,Royal Enfield Thunder 500,2013,5400,Petrol,Individual,Manual,1.05,0.29307079187287854,1.9,0
+120,Bajaj Pulsar RS200,2016,5700,Petrol,Individual,Manual,1.05,1.0500000000606633,1.26,0
+121,Royal Enfield Thunder 350,2011,6900,Petrol,Individual,Manual,1.05,0.5585833111877037,1.5,0
+122,Royal Enfield Bullet 350,2016,6000,Petrol,Individual,Manual,1.05,1.7636355228016782,1.17,0
+123,Royal Enfield Classic 350,2013,46500,Petrol,Individual,Manual,1.0,-0.18117002975509422,1.47,0
+124,Royal Enfield Classic 500,2012,11500,Petrol,Individual,Manual,0.95,1.9042807245812128,1.75,0
+125,Royal Enfield Classic 500,2009,40000,Petrol,Individual,Manual,0.9,-0.054280724539466974,1.75,0
+126,Bajaj Avenger 220,2017,1300,Petrol,Individual,Manual,0.9,0.8299875159364092,0.95,0
+127,Bajaj Avenger 150,2016,7000,Petrol,Individual,Manual,0.75,0.750000000020691,0.8,0
+128,Honda CB Hornet 160R,2017,3000,Petrol,Individual,Manual,0.8,0.9501539741963825,0.87,0
+129,Yamaha FZ S V 2.0,2017,5000,Petrol,Individual,Manual,0.78,1.8955203710618207,0.84,0
+130,Honda CB Hornet 160R,2017,11000,Petrol,Individual,Manual,0.75,0.9138811313764563,0.87,0
+131,Yamaha FZ 16,2015,18000,Petrol,Individual,Manual,0.75,0.7500000000061391,0.82,0
+132,Bajaj Avenger 220,2017,3500,Petrol,Individual,Manual,0.75,0.8200124841609977,0.95,0
+133,Bajaj Avenger 220,2016,500,Petrol,Individual,Manual,0.72,0.2238349846938945,0.95,0
+134,TVS Apache RTR 160,2017,11800,Petrol,Individual,Manual,0.65,2.2392713548042593,0.81,0
+135,Bajaj Pulsar 150,2015,5000,Petrol,Individual,Manual,0.65,3.3138404194780833,0.74,0
+136,Honda CBR 150,2014,23500,Petrol,Individual,Manual,0.65,1.2483197110257152,1.2,0
+137,Hero Extreme,2013,16000,Petrol,Individual,Manual,0.65,-0.06431392093440991,0.787,0
+138,Honda CB Hornet 160R,2016,15000,Petrol,Individual,Manual,0.6,0.28596489444180406,0.87,0
+139,Bajaj Avenger 220 dtsi,2015,16600,Petrol,Individual,Manual,0.6,2.073026886664593,0.95,0
+140,Honda CBR 150,2013,32000,Petrol,Individual,Manual,0.6,0.6000000000046839,1.2,0
+141,Bajaj Avenger 150 street,2016,20000,Petrol,Individual,Manual,0.6,0.5999999999928605,0.8,0
+142,Yamaha FZ  v 2.0,2015,29000,Petrol,Individual,Manual,0.6,0.28604188154713484,0.84,0
+143,Yamaha FZ  v 2.0,2016,25000,Petrol,Individual,Manual,0.6,0.9139581184817871,0.84,0
+144,Bajaj Pulsar  NS 200,2014,25000,Petrol,Individual,Manual,0.6,0.3524278569107082,0.99,0
+145,TVS Apache RTR 160,2012,19000,Petrol,Individual,Manual,0.6,-0.842273281357393,0.81,0
+146,Hero Extreme,2014,15000,Petrol,Individual,Manual,0.55,0.5499999999428837,0.787,0
+147,Yamaha FZ S V 2.0,2015,58000,Petrol,Individual,Manual,0.55,0.43565315632963575,0.84,0
+148,Bajaj Pulsar 220 F,2010,45000,Petrol,Individual,Manual,0.52,-1.3619475527698341,0.94,0
+149,Bajaj Pulsar 220 F,2016,24000,Petrol,Individual,Manual,0.51,2.3919475527811755,0.94,0
+150,TVS Apache RTR 180,2011,6000,Petrol,Individual,Manual,0.5,-1.3022596555420023,0.826,0
+151,Hero Passion X pro,2016,31000,Petrol,Individual,Manual,0.5,0.5000000000543423,0.55,0
+152,Bajaj Pulsar NS 200,2012,13000,Petrol,Individual,Manual,0.5,0.24605635690591043,0.99,0
+153,Bajaj Pulsar NS 200,2013,45000,Petrol,Individual,Manual,0.5,0.7107448011504403,0.99,0
+154,Yamaha Fazer ,2014,8000,Petrol,Individual,Manual,0.5,0.5000000000147793,0.88,0
+155,Honda Activa 4G,2017,4300,Petrol,Individual,Automatic,0.48,0.4643198842422862,0.51,0
+156,TVS Sport ,2017,15000,Petrol,Individual,Manual,0.48,0.4800000000282125,0.52,0
+157,Yamaha FZ S V 2.0,2015,23000,Petrol,Individual,Manual,0.48,0.5943468436673811,0.84,0
+158,Honda Dream Yuga ,2017,8600,Petrol,Individual,Manual,0.48,0.4800000000320779,0.54,0
+159,Honda Activa 4G,2017,4000,Petrol,Individual,Automatic,0.45,0.4656801158480448,0.51,0
+160,Bajaj Avenger Street 220,2011,24000,Petrol,Individual,Manual,0.45,0.450000000038699,0.95,0
+161,TVS Apache RTR 180,2014,23000,Petrol,Individual,Manual,0.45,0.4500000000396085,0.826,0
+162,Bajaj Pulsar NS 200,2012,14500,Petrol,Individual,Manual,0.45,0.23925519887711744,0.99,0
+163,Bajaj Avenger 220 dtsi,2010,27000,Petrol,Individual,Manual,0.45,-1.0230268866250753,0.95,0
+164,Hero Splender iSmart,2016,14000,Petrol,Individual,Manual,0.45,0.7298899077873102,0.54,0
+165,Activa 3g,2016,500,Petrol,Individual,Automatic,0.45,3.8873731866287926,0.54,0
+166,Hero Passion Pro,2016,1000,Petrol,Individual,Manual,0.45,1.0356242161064984,0.55,0
+167,TVS Apache RTR 160,2014,42000,Petrol,Individual,Manual,0.42,0.2730019265843566,0.81,0
+168,Honda CB Trigger,2013,12000,Petrol,Individual,Manual,0.42,0.42000000002190063,0.73,0
+169,Hero Splender iSmart,2015,14000,Petrol,Individual,Manual,0.4,0.12011009226262104,0.54,0
+170,Yamaha FZ S ,2012,5500,Petrol,Individual,Manual,0.4,0.4000000000539785,0.83,0
+171,Hero Passion Pro,2015,6700,Petrol,Individual,Manual,0.4,0.40000000007262315,0.55,0
+172,Bajaj Pulsar 135 LS,2014,13700,Petrol,Individual,Manual,0.4,0.40000000005443326,0.64,0
+173,Activa 4g,2017,1300,Petrol,Individual,Automatic,0.4,0.40000000005011316,0.51,0
+174,Honda CB Unicorn,2015,38600,Petrol,Individual,Manual,0.38,0.37999999991006916,0.72,0
+175,Hero Honda CBZ extreme,2011,75000,Petrol,Individual,Manual,0.38,-1.8225974506792681,0.787,0
+176,Honda Karizma,2011,30000,Petrol,Individual,Manual,0.35,1.749521094805914,1.05,0
+177,Honda Activa 125,2016,24000,Petrol,Individual,Automatic,0.35,0.3500000000237833,0.57,0
+178,TVS Jupyter,2014,19000,Petrol,Individual,Automatic,0.35,0.35000000003537934,0.52,0
+179,Honda Karizma,2010,213000,Petrol,Individual,Manual,0.31,0.30999999977279913,1.05,0
+180,Hero Honda Passion Pro,2012,60000,Petrol,Individual,Manual,0.3,0.29999999999381544,0.51,0
+181,Hero Splender Plus,2016,50000,Petrol,Individual,Manual,0.3,0.29999999997471605,0.48,0
+182,Honda CB Shine,2013,30000,Petrol,Individual,Manual,0.3,3.8829633162335995,0.58,0
+183,Bajaj Discover 100,2013,21000,Petrol,Individual,Manual,0.27,0.2700000000020282,0.47,0
+184,Bajaj Pulsar 150,2008,26000,Petrol,Individual,Manual,0.25,-0.2683922159590111,0.75,1
+185,Suzuki Access 125,2008,1900,Petrol,Individual,Automatic,0.25,0.2500000000475211,0.58,0
+186,TVS Wego,2010,22000,Petrol,Individual,Automatic,0.25,0.2500000000459295,0.52,0
+187,Honda CB twister,2013,32000,Petrol,Individual,Manual,0.25,1.1219367759747456,0.51,0
+188,Hero Glamour,2013,18000,Petrol,Individual,Manual,0.25,0.2500000000363798,0.57,0
+189,Hero Super Splendor,2005,55000,Petrol,Individual,Manual,0.2,0.19999999997889972,0.57,0
+190,Bajaj Pulsar 150,2008,60000,Petrol,Individual,Manual,0.2,-1.198132970620918,0.75,0
+191,Bajaj Discover 125,2012,25000,Petrol,Individual,Manual,0.2,0.5025604345307784,0.57,1
+192,Hero Hunk,2007,49000,Petrol,Individual,Manual,0.2,0.19999999996116458,0.75,1
+193,Hero  Ignitor Disc,2013,24000,Petrol,Individual,Manual,0.2,0.2000000000637101,0.65,1
+194,Hero  CBZ Xtreme,2008,50000,Petrol,Individual,Manual,0.2,0.1999999999893589,0.787,0
+195,Bajaj  ct 100,2015,35000,Petrol,Individual,Manual,0.18,0.18000000000643013,0.32,0
+196,Activa 3g,2008,500000,Petrol,Individual,Automatic,0.17,-3.2673731870686424,0.52,0
+197,Honda CB twister,2010,33000,Petrol,Individual,Manual,0.16,-0.7119367759521538,0.51,0
+198,Bajaj Discover 125,2011,35000,Petrol,Individual,Manual,0.15,-0.15256043451927326,0.57,1
+199,Honda CB Shine,2007,53000,Petrol,Individual,Manual,0.12,0.11999999997760824,0.58,0
+200,Bajaj Pulsar 150,2006,92233,Petrol,Individual,Manual,0.1,-2.563840419497865,0.75,0
+201,i20,2010,58000,Diesel,Dealer,Manual,3.25,3.2215066756280066,6.79,1
+202,grand i10,2015,28200,Petrol,Dealer,Manual,4.4,4.602146108186162,5.7,0
+203,i10,2011,53460,Petrol,Dealer,Manual,2.95,2.678034929532032,4.6,0
+204,eon,2015,28282,Petrol,Dealer,Manual,2.75,2.7562059718923138,4.43,0
+205,grand i10,2016,3493,Petrol,Dealer,Manual,5.25,6.09953123733203,5.7,1
+206,xcent,2017,12479,Petrol,Dealer,Manual,5.75,6.03845896395751,7.13,0
+207,grand i10,2015,34797,Petrol,Dealer,Automatic,5.15,4.771638104514977,5.7,0
+208,i20,2017,3435,Petrol,Dealer,Manual,7.9,7.218668358476407,8.1,0
+209,grand i10,2015,21125,Diesel,Dealer,Manual,4.85,5.145150013254579,5.7,0
+210,i10,2012,35775,Petrol,Dealer,Manual,3.1,3.3680003982160542,4.6,0
+211,elantra,2015,43535,Diesel,Dealer,Manual,11.75,11.68630965142438,14.79,0
+212,creta,2016,22671,Petrol,Dealer,Manual,11.25,11.554381167308293,13.6,0
+213,i20,2011,31604,Petrol,Dealer,Manual,2.9,2.664462453661372,6.79,0
+214,grand i10,2017,20114,Petrol,Dealer,Manual,5.25,5.858368515115899,5.7,0
+215,verna,2012,36100,Petrol,Dealer,Manual,4.5,5.012654160282409,9.4,0
+216,eon,2016,12500,Petrol,Dealer,Manual,2.9,3.4375430380903254,4.43,0
+217,eon,2016,15000,Petrol,Dealer,Manual,3.15,3.4262077747091553,4.43,0
+218,verna,2014,45078,Petrol,Dealer,Manual,6.45,6.1915065934770155,9.4,0
+219,verna,2012,36000,Petrol,Dealer,Manual,4.5,5.013107570817738,9.4,0
+220,eon,2017,38488,Petrol,Dealer,Manual,3.5,3.929490523714094,4.43,0
+221,i20,2013,32000,Petrol,Dealer,Automatic,4.5,4.081630068330696,6.79,0
+222,i20,2014,77632,Diesel,Dealer,Manual,6.0,5.2707813586732755,7.6,0
+223,verna,2015,61381,Diesel,Dealer,Manual,8.25,7.2382919991391645,9.4,0
+224,verna,2013,36198,Petrol,Dealer,Automatic,5.11,5.8213931228219735,9.4,0
+225,i10,2011,22517,Petrol,Dealer,Manual,2.7,2.8183337514544746,4.6,0
+226,grand i10,2015,24678,Petrol,Dealer,Manual,5.25,4.618115227237695,5.7,0
+227,i10,2011,57000,Petrol,Dealer,Manual,2.55,2.562345276234055,4.43,0
+228,verna,2012,60000,Diesel,Dealer,Manual,4.95,5.415214152056933,9.4,0
+229,i20,2012,52132,Diesel,Dealer,Manual,3.1,3.692091264209239,6.79,0
+230,verna,2013,45000,Diesel,Dealer,Manual,6.15,6.093005547869325,9.4,0
+231,verna,2017,15001,Petrol,Dealer,Manual,9.25,8.157218326738302,9.4,0
+232,elantra,2015,12900,Petrol,Dealer,Automatic,11.45,11.513690348538375,14.79,0
+233,grand i10,2013,53000,Diesel,Dealer,Manual,3.9,3.7810657740940314,5.7,0
+234,grand i10,2015,4492,Petrol,Dealer,Manual,5.5,4.709640677883272,5.7,0
+235,verna,2017,15141,Petrol,Dealer,Manual,9.1,8.156583551989115,9.4,0
+236,eon,2016,11849,Petrol,Dealer,Manual,3.1,3.440494740674694,4.43,0
+237,creta,2015,68000,Diesel,Dealer,Manual,11.25,11.249999999959073,13.6,0
+238,verna,2013,60241,Petrol,Dealer,Manual,4.8,5.512976138492377,9.4,0
+239,eon,2012,23709,Petrol,Dealer,Manual,2.0,0.9476009890952355,4.43,0
+240,verna,2012,32322,Diesel,Dealer,Manual,5.35,5.540709120003612,9.4,0
+241,xcent,2015,35866,Petrol,Dealer,Manual,4.75,5.488441383706004,7.13,1
+242,xcent,2014,34000,Petrol,Dealer,Manual,4.4,4.111541036092149,7.13,0
+243,i20,2016,7000,Petrol,Dealer,Manual,6.25,6.299668809281457,7.6,0
+244,verna,2013,49000,Diesel,Dealer,Manual,5.95,6.074869126459134,9.4,0
+245,verna,2012,71000,Diesel,Dealer,Manual,5.2,5.365338993179421,9.4,0
+246,i20,2012,35000,Petrol,Dealer,Manual,3.75,3.2588444474090466,6.79,0
+247,verna,2015,36000,Petrol,Dealer,Manual,5.95,6.842447017391805,9.4,0
+248,i10,2013,30000,Petrol,Dealer,Manual,4.0,4.003964672151369,4.6,0
+249,i20,2016,17000,Petrol,Dealer,Manual,5.25,6.2543277557563215,7.6,0
+250,creta,2016,35934,Diesel,Dealer,Manual,12.9,12.005170437717197,13.6,0
+251,city,2013,56701,Petrol,Dealer,Manual,5.0,5.551672753736511,9.9,0
+252,brio,2015,31427,Petrol,Dealer,Automatic,5.4,5.4709236332923865,6.82,0
+253,city,2014,48000,Diesel,Dealer,Manual,7.2,6.711828929632702,9.9,0
+254,city,2013,54242,Petrol,Dealer,Manual,5.25,5.5628221187982945,9.9,0
+255,brio,2012,53675,Petrol,Dealer,Manual,3.0,2.47972231611584,5.35,0
+256,city,2016,49562,Petrol,Dealer,Manual,10.25,9.581992974277455,13.6,0
+257,city,2015,40324,Petrol,Dealer,Manual,8.5,9.01409922399921,13.6,0
+258,city,2015,25000,Petrol,Dealer,Manual,8.4,9.083579854421032,13.6,0
+259,amaze,2014,36054,Petrol,Dealer,Manual,3.9,4.053798964377165,7.0,0
+260,city,2016,29223,Petrol,Dealer,Manual,9.15,9.674212143042041,13.6,0
+261,brio,2016,5600,Petrol,Dealer,Manual,5.5,5.500207696666166,5.97,0
+262,amaze,2015,40023,Petrol,Dealer,Manual,4.0,3.942249360344931,5.8,0
+263,jazz,2016,16002,Petrol,Dealer,Manual,6.6,5.731032524492321,7.7,0
+264,amaze,2015,40026,Petrol,Dealer,Manual,4.0,4.645569313441683,7.0,0
+265,jazz,2017,21200,Petrol,Dealer,Manual,6.5,6.903355356571865,8.7,0
+266,amaze,2014,35000,Petrol,Dealer,Manual,3.65,4.058577911418524,7.0,0
+267,city,2016,19434,Diesel,Dealer,Manual,8.35,7.767854166093002,9.4,0
+268,brio,2017,19000,Petrol,Dealer,Manual,4.8,5.949591580117158,5.8,0
+269,city,2015,18828,Petrol,Dealer,Manual,6.7,7.001563686418876,10.0,0
+270,city,2011,69341,Petrol,Dealer,Manual,4.1,4.333413160648888,10.0,0
+271,city,2009,69562,Petrol,Dealer,Manual,3.0,3.112851492316622,10.0,0
+272,city,2015,27600,Petrol,Dealer,Manual,7.5,6.961790514266795,10.0,0
+273,jazz,2010,61203,Petrol,Dealer,Manual,2.25,1.7501852760699421,7.5,0
+274,brio,2014,16500,Petrol,Dealer,Manual,5.3,4.717698693101738,6.8,0
+275,city,2016,30753,Petrol,Dealer,Automatic,10.9,9.866678451192229,13.6,0
+276,city,2015,24800,Petrol,Dealer,Manual,8.65,9.084486675491462,13.6,0
+277,city,2015,21780,Petrol,Dealer,Manual,9.7,9.098179673655977,13.6,0
+278,jazz,2016,4000,Petrol,Dealer,Manual,6.0,6.195728764257183,8.4,0
+279,city,2014,40126,Petrol,Dealer,Manual,6.25,8.405217161334349,13.6,0
+280,brio,2015,14465,Petrol,Dealer,Manual,5.25,4.809205246459214,5.9,0
+281,city,2006,50456,Petrol,Dealer,Manual,2.1,-0.036526448217955476,7.6,0
+282,city,2014,63000,Diesel,Dealer,Manual,8.25,9.046873663671477,14.0,0
+283,city,2016,9010,Petrol,Dealer,Manual,8.99,8.710859681413467,11.8,0
+284,brio,2013,9800,Petrol,Dealer,Manual,3.5,3.6107972168792912,5.9,0
+285,jazz,2016,15059,Petrol,Dealer,Automatic,7.4,6.403600712120806,8.5,0
+286,jazz,2016,28569,Petrol,Dealer,Manual,5.65,5.791274681762616,7.9,0
+287,amaze,2015,44000,Petrol,Dealer,Automatic,5.75,5.120009916198796,7.5,0
+288,city,2015,34000,Petrol,Dealer,Manual,8.4,9.042772906248501,13.6,0
+289,city,2016,10980,Petrol,Dealer,Manual,10.11,9.756927826987749,13.6,0
+290,amaze,2014,19000,Petrol,Dealer,Manual,4.5,3.7794568193521627,6.4,0
+291,brio,2015,31427,Petrol,Dealer,Manual,5.4,4.849520010705419,6.1,0
+292,jazz,2016,12000,Petrol,Dealer,Manual,6.4,6.159455921437029,8.4,0
+293,city,2010,38000,Petrol,Dealer,Manual,3.25,3.8071256113594245,9.9,0
+294,amaze,2014,33019,Petrol,Dealer,Manual,3.75,3.950337714886473,6.8,0
+295,city,2015,60076,Diesel,Dealer,Manual,8.55,9.136549923725624,13.09,0
+296,city,2016,33988,Diesel,Dealer,Manual,9.5,8.99130964838264,11.6,0
+297,brio,2015,60000,Petrol,Dealer,Manual,4.0,4.602744759232792,5.9,0
+298,city,2009,87934,Petrol,Dealer,Manual,3.35,3.615662204957289,11.0,0
+299,city,2017,9000,Diesel,Dealer,Manual,11.5,10.241887855014966,12.5,0
+300,brio,2016,5464,Petrol,Dealer,Manual,5.3,5.459796544261735,5.9,0
