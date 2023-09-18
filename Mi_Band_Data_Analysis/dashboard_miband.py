@@ -1,5 +1,10 @@
 from collections.abc import Mapping
 import streamlit as st
+pandas==1.3.3
+matplotlib==3.4.3
+plotly==5.3.1
+seaborn==0.11.2
+cufflinks==0.17.3
 # from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 from plotly import __version__
 import numpy as np
