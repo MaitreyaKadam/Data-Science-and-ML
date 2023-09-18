@@ -1,6 +1,6 @@
 from collections.abc import Mapping
 import streamlit as st
-from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
+# from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 from plotly import __version__
 import numpy as np
 import pandas as pd
